@@ -1,3 +1,11 @@
+Find Cams 
+	
+intitle:webcam 7 inurl:8080 -intext:8080
+
+
+
+
+
 http://camera.buffalotrace.com/view/viewer_index.shtml?id=35151
 http://88.53.197.250/view/index.shtml
 http://87.54.59.228/view/index.shtml
